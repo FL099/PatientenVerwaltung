@@ -2,3 +2,12 @@
   margin: 0;
   padding: 0;
 }
+
+#logo{
+  width: 400px;
+  margin-left: calc(50% - 200px);
+}
+
+h1{
+  text-align: center;
+}
